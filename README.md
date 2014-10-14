@@ -1,4 +1,6 @@
-RCS-e stack for Android with GSMA API
+<b> <H1> RCS-e stack for Android with GSMA API </H1> </b>
+
+<p> html 문법 사용됨.. css포함<p>
 
 Follow @androidrcsstack
 The RCS-e stack is an open source implementation of the Rich Communication Suite standards for Google Android platform. This implementation is compliant to GSMA RCS-e Blackbird standards. Thanks to its client/server API, the stack may be easily integrated with existing native Android applications (e.g. address book, dialer) and permits to create new RCS applications (e.g. chat, widgets).
